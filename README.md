@@ -32,4 +32,5 @@ version 2: to resolve conflict created by myself and solved by myself.
 change from main branch was accepted
 
 version 3: to resolved conflicet created by myself but solved by group member.
-group member decided which branch to accept
+group member decided which branch to accept and deciede to use main
+
