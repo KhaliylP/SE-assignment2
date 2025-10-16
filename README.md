@@ -26,7 +26,10 @@ This repository is for practicing simple github functions and simulating a coupl
 Update history:
 
 version 1: to simulate conlflict issue solved by myself.
+change from both branches were accepted
 
 version 2: to resolve conflict created by myself and solved by myself.
+change from main branch was accepted
 
 version 3: to resolved conflicet created by myself but solved by group member.
+group member decided which branch to accept
